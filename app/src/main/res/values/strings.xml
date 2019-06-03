@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lost Ice Caves</string>
+
+    <string name="T1_Story">Your four man squad, enter a large ice cave rumored to contain the Golden Goblet, a relic of immense power. All four of you are
+    equipped with swords, shields, and basic survival essentials. As you traverse through the wide cave, you find yourselves at a fork. Does your team go left or right?</string>
+    <string name="T1_Ans1">Left. </string>
+    <string name="T1_Ans2">Right. </string>
+
+
+</resources>
