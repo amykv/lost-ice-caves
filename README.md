@@ -2,6 +2,15 @@
 An android app that works as interactive fiction. The user is displayed the story and then can make one of two choices to continue the story.
 
 
+This was made for me to learn more about android control flow. Utilizing an index to track the users choices and select the right text to display.
+
+
+TO DO:
+
+
+Rewrite the story or add on to it to make it longer and more engaging.
+
+
 
 
 App Icon Credit:
