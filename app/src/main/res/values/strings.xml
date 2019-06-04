@@ -6,5 +6,18 @@
     <string name="T1_Ans1">Left. </string>
     <string name="T1_Ans2">Right. </string>
 
+    <string name="T2_Story">You promptly decide your path left and head deeper down into the cave. As you walk you start to hear what you think is a low pitch growl.
+    The torches you are carrying seem to flicker more as if there is more wind. You see two small, yellow, glowing orbs ahead as you approach a wide opening. What do you do?</string>
+    <string name="T2_Ans1">Draw swords, slowly march into the opening.</string>
+    <string name="T2_Ans2">Wait, perhaps throw a snowball towards the glowing orbs.</string>
+
+    <string name="T3_Story">As your group marches in the opening, the two glowing eyes get larger. Suddenly a large form takes shape, growling and snarling. A giant ice Wendigo over 14 feet tall! It starts to walk towards your group. </string>
+    <string name="T3_Ans1">All four of you lunge at the creature, full frontal attack!</string>
+    <string name="T3_Ans2">Surround the Wendigo creature, attacking from all sides.</string>
+
+    <string name="T4_End">You throw a snowball at the glowing eyes. You hit it and anger a large creature, a Wendigo! It starts racing towards your group, full stomp. Luckily for you it falls through the ice beneath your feet, falling to its death. You find the Golden Goblet in the cave, your final prize.</string>
+    <string name="T5_End">As your group marches forward, you all create too much weight on ice that was covering a chasm, break it and fall endlessly to your deaths.</string>
+    <string name="T6_End">Your group surrounds the Wendigo. However, the combined weight of your group and the creature cause the ice to break beneath your feet. The four of you and the creature fall to your deaths.</string>
+    <string name="T7_End">Your group decides to go right. As you walk, you all fail to notice the dark chasm beneath your feet covered in a thin layer of ice. It shatters under your weight and you fall into a deep pit to your deaths. What a shame.</string>
 
 </resources>
