@@ -2,7 +2,7 @@
 An android app that works as interactive fiction. The user is displayed the story and then can make one of two choices to continue the story.
 
 
-This was made for me to learn more about android control flow. Utilizing an index to track the users choices and select the right text to display.
+This was made for me to learn more about android control flow. Utilizing an index to track the users choices and select the right text to display. Functional framework at the moment.
 
 
 TO DO:
