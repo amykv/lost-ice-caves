@@ -8,7 +8,7 @@ This was made for me to learn more about android control flow. Utilizing an inde
 TO DO:
 
 
-Rewrite the story or add on to it to make it longer and more engaging.
+Rewrite the story or add on to it to make it longer and more engaging. Current story is very short and prototype for framework.
 
 
 
